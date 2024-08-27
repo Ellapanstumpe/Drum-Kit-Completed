@@ -34,6 +34,7 @@ index.js: Contains the JavaScript logic for handling user interactions and playi
 sounds/: A directory containing the drum sound files in .mp3 format.
 
 #Installation
+
 To run this project locally:
 
 Clone the repository: git clone https://github.com/Ellapanstumpe/Drum-Kit-Completed.git
