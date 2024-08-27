@@ -33,12 +33,14 @@ styles.css: Defines the styles and layout of the drum kit.
 index.js: Contains the JavaScript logic for handling user interactions and playing sounds.
 sounds/: A directory containing the drum sound files in .mp3 format.
 
-#Installation
+# Installation
 
 To run this project locally:
 
 Clone the repository: git clone https://github.com/Ellapanstumpe/Drum-Kit-Completed.git
-Navigate to the project directory: cd drum-kit
+
+Navigate to the project directory: cd Drum-Kit-Completed
+
 Open index.html in your web browser: open index.html
 
 or visit following link to check out the completed project:
